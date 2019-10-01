@@ -1,0 +1,10 @@
+Draw a straight line, about 3 inches
+Draw another straight line connected by the end of the other line, but go right for about 3 inches
+Connected by the end of the previous line create another straight line going up about 3 inches(should be parallel to the first line drawn)
+After that draw another straight line connecting the last line to the first line drawn.
+If done correctly you should see the shape of a sqaure, after that you will need to create another sqaure inside the one you just drew
+Inside the square, about 1 cm apart repeat steps 1-4, except you will be drawing each line with the length of 2 inches
+You should be looking at a square inside of a sqaure
+Inside the inner square you will draw a straight line going through the middle of the square from one end to the other inside the square
+After that, you will draw a straight horizontal line intersecting with the line you just drew going through the middle of the inner square
+After that, you have completed the drawing and should have a window.
